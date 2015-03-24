@@ -1,0 +1,29 @@
+/*
+Theme Name: WPHB
+Theme URI: https://wphb.qiaofan.org/
+Author: Qiaofan & GitHub team
+Author URI: https://www.qiaofan.com/
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Html5 Bootstrap Css3
+
+*/
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+.admin-bar .navbar {
+	margin-top: 32px;
+}
+a.logo {
+	line-height: 36px;
+	padding: 7px 15px;
+	color: #fff !important;
+}
+.logo img {
+	float: left;
+	margin-right: 10px;
+}
